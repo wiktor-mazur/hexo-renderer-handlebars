@@ -1,0 +1,25 @@
+{
+    "name": "hexo-renderer-handlebars",
+    "version": "1.0.0",
+    "description": "Handlebars renderer for Hexo",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wiktor-mazur/hexo-renderer-handlebars"
+    },
+    "keywords": [
+        "hexo",
+        "renderer",
+        "handlebars"
+    ],
+    "author": "Wiktor Mazur <me@wiktormazur.pl> (http://en.wiktormazur.pl/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wiktor-mazur/hexo-renderer-handlebars/issues"
+    },
+    "homepage": "https://github.com/wiktor-mazur/hexo-renderer-handlebars#readme",
+    "dependencies": {
+        "handlebars": "^4.4.2"
+    },
+    "devDependencies": {}
+}
